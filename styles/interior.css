@@ -1,0 +1,29 @@
+body {
+  background-color: #AC4AF3;
+}
+
+.column {
+  width:14%;
+  float: left;
+  margin:15px;
+}
+
+.left{
+  float:left;
+}
+
+.right{
+  float:right;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+body{
+  text-align: center;
+}
